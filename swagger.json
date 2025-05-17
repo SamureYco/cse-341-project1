@@ -131,16 +131,19 @@
             "schema": {
               "type": "object",
               "properties": {
-                "userName": {
+                "firstName": {
+                  "example": "any"
+                },
+                "lastName": {
                   "example": "any"
                 },
                 "email": {
                   "example": "any"
                 },
-                "name": {
+                "favoriteColor": {
                   "example": "any"
                 },
-                "ipaddress": {
+                "birthday": {
                   "example": "any"
                 }
               }
